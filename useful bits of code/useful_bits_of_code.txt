@@ -1,0 +1,1 @@
+float resultaat = int(getal*10)/10.0;
